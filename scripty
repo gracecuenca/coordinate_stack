@@ -1,0 +1,17 @@
+move
+50 50 50
+sphere
+0 0 0 50
+push
+move
+100 50 50
+sphere
+0 0 0 50
+push
+move
+150 50 50
+sphere
+0 0 0 50
+display
+save
+img.png
